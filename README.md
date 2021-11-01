@@ -21,7 +21,7 @@ SMIBIOS19,2
 - [x] FaceTime / iMessage
 - [x] 睿频 / HWP 变频 / 原生电源管理
 - [x] 睡眠 / 键盘、鼠标唤醒
-- [x] 定制USB,开启后置所有USB3/USB2,以及type-c
+- [x] 定制USB,开启后置所有USB3/USB2,以及type-c,开启前置2个USB3
 - [x] 其他白果功能（99%）
 
 ## 我的配置
