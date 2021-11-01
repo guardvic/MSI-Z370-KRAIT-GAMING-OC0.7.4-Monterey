@@ -51,3 +51,4 @@ SMIBIOS19,2
 - 请自行注入三码,引导中三码已移除
 - 强制开启显示器Hidpi请参照[Enable-HiDPI-OSX](https://github.com/syscl/Enable-HiDPI-OSX)(2k带鱼屏添加3440x1440,2560x1080,1720x720)
 - 如需使用白果网卡蓝牙,请自行禁用BlueToolFixp.kext\IntelBluetoothFirmware.kext\Airportitlwm.kext
+- 有偿协助QQ:1015404716
