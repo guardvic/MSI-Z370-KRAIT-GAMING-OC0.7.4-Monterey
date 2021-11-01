@@ -31,6 +31,6 @@ Hackintosh Monterey Opencore EFI
 |               硬盘 | 三星 PM9A1 1TB                             |
 |               内存 | 影驰名人堂 HOF 8GB DDR4 3600MHz x 2          |
 |        无线 + 蓝牙 | 英特尔 AX200  |
-|             显示器 | AOC CU34G2X（34 英寸 3440x1440 分辨率 可开启Hidpi 144hz             |
+|             显示器 | AOC CU34G2X（34 英寸 3440x1440 分辨率 可开启Hidpi 144hz)             |
 
 
