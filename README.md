@@ -6,7 +6,10 @@ Hackintosh Monterey Opencore EFI
 
 ## EFI介绍
 
-此EFI引导适用于微星Z370 Krait gaming主板,MacOS Monterey,Opencore版本:0.7.4
+此EFI引导适用于微星Z370 Krait gaming主板
+MacOS Monterey
+Opencore版本:0.7.4
+
 
 ## 可正常工作
 
@@ -33,4 +36,16 @@ Hackintosh Monterey Opencore EFI
 |        无线 + 蓝牙 | 英特尔 AX200  |
 |             显示器 | AOC CU34G2X（34 英寸 3440x1440 分辨率 可开启Hidpi 144hz)             |
 
+## BIOS设定
+Overclocking\CPU特征\CFG锁定--禁止
+Settings\高级\内建显示器配置\集成显卡多显示器--允许
+Settings\高级\内建显示器配置\集显共享显存--64M
+Settings\高级\USB设置\XHCI Hand-off--允许
+Settings\高级\USB设置\传统USB支持--允许
+Settings\高级\Windows操作系统的配置\Windows 10 WHQL支持--允许
+Settings\高级\Windows操作系统的配置\Windows 7安装--禁止
+Settings\高级\Windows操作系统的配置\MSI快速开机--禁止
+Settings\高级\整合周边设备\SATA模式--AHCI模式
 
+## 注意
+请自行生成三码,引导中三码已移除
