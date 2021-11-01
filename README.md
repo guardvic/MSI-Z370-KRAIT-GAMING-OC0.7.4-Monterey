@@ -9,16 +9,16 @@ Hackintosh Monterey Opencore EFI
 此EFI引导适用于微星Z370 Krait gaming主板
 MacOS Monterey
 Opencore版本:0.7.4
+SMIBIOS19,2
 
 
-## 可正常工作
+## 工作状态
 
 - [x] 声卡（板载）/ 网卡（板载）
 - [x] 显卡（核显 + 独显）/ 硬解 4K（HEVC + H.264）
 - [x] WiFi（PCI-E 设备） / 蓝牙（PEI-E 载 USB 设备）
 - [ ] 隔空投送 / 接力 / 随航(需白果卡)
 - [x] FaceTime / iMessage
-- [x] Apple Music / Apple TV Plus
 - [x] 睿频 / HWP 变频 / 原生电源管理
 - [x] 睡眠 / 键盘、鼠标唤醒
 - [x] 定制USB,开启后置所有USB3/USB2,以及type-c
@@ -48,5 +48,6 @@ Opencore版本:0.7.4
 - Settings\高级\整合周边设备\SATA模式--AHCI模式
 
 ## 注意
-- 请自行生成三码,引导中三码已移除
-- 强制开启显示器Hidpi请参照[Enable-HiDPI-OSX](https://github.com/syscl/Enable-HiDPI-OSX)
+- 请自行注入三码,引导中三码已移除
+- 强制开启显示器Hidpi请参照[Enable-HiDPI-OSX](https://github.com/syscl/Enable-HiDPI-OSX)(2k带鱼屏添加3440x1440,2560x1080,1720x720)
+- 如需使用白果网卡蓝牙,请自行禁用BlueToolFixp.kext\IntelBluetoothFirmware.kext\Airportitlwm.kext
